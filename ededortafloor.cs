@@ -20,7 +20,7 @@ console.writeline(sum);
 edediorta = sum / (num / 2);
 console.writeline("arithmetic mean:");
 console.writeline(arithmeticMean);
-console.writeline();
+console.readline();
 
 #endregion
 
